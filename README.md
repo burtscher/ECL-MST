@@ -15,6 +15,6 @@ To compute the MST of the file graph.egr, enter:
 
 ### Publication
 
-A. Fallin, A. Gonzalez, J. Seo, and Martin Burtscher. "A High-Performance MST Implementation for GPUs." Proceedings of the 2023 ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis. November 2023. [pdf]
+A. Fallin, A. Gonzalez, J. Seo, and Martin Burtscher. "A High-Performance MST Implementation for GPUs." Proceedings of the 2023 ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis. November 2023.
 
 *This work has been supported in part by the National Science Foundation under Award Number 1955367 and by an equipment donation from NVIDIA Corporation.*
