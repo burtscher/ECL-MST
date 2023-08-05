@@ -1,5 +1,5 @@
 /*
-ECL-SCC: This code computes a minimum spanning tree (MST) or a minimum spanning forest (MSF) of an undirected graph.
+ECL-MST: This code computes a minimum spanning tree (MST) or a minimum spanning forest (MSF) of an undirected graph.
 
 Copyright (c) 2023, Martin Burtscher and Alex Fallin
 
@@ -404,7 +404,7 @@ static inline unsigned int hash(unsigned int val)
 
 int main(int argc, char* argv [])
 {
-  printf("ECL-SCC v1.0\n\n");  fflush(stdout);
+  printf("ECL-MST v1.0\n\n");  fflush(stdout);
 
   // process command line
   if (argc != 2) {printf("USAGE: %s input_graph\n", argv[0]); exit(-1);}
